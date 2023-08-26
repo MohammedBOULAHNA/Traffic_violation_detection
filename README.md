@@ -26,4 +26,6 @@ Using this solution, we could help :
 ## Steps to follow to develop the solution
 1. Creation of a model for object detection (traffic signs, traffic lights)  
 2. Braking distance prediction  
-3. Development of a user interface for alerts: **Mobile application**  
+3. Development of a user interface for alerts: **Mobile application**
+
+
