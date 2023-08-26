@@ -9,9 +9,10 @@
 - Speeding.
 
 ## Why this project?  
-Using this solution, we will help : 
+Using this solution, we could help : 
 - Saving drivers from paying fines 
 - Improving road safety 
 - Promote responsible driving that respects the highway code
 
-  
+## Project use case  
+- Meeting road safety standards and reducing accident mortality by detecting and alerting the driver in real time about traffic violations. 
