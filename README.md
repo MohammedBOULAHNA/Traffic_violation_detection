@@ -16,3 +16,14 @@ Using this solution, we could help :
 
 ## Project use case  
 - Meeting road safety standards and reducing accident mortality by detecting and alerting the driver in real time about traffic violations. 
+
+## Technical specification  
+* Develop a system to detect objects on the road (road signs, traffic lights, etc.).  
+* Develop a system capable of recognizing common violations such as speeding, disobeying traffic lights, etc.
+* Design a model to estimate the braking distance between two vehicles.
+* Integrate violation detection and braking distance prediction functionalities into a user-friendly interface.
+
+## Steps to follow to develop the solution
+1. Creation of a model for object detection (traffic signs, traffic lights)  
+2. Braking distance prediction  
+3. Development of a user interface for alerts: **Mobile application**  
