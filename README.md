@@ -33,5 +33,5 @@ Using this solution, we could help :
 ## Physical architecture of the system :  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7193ae3e-fa41-4ac2-9af4-dba91a91e704)
 
-
-
+## Technical tools used in the first phase: Developing a model for object detection  
+1. YOLO(You Only Look Once) : An object detection model that recognized for {**Real-time detection, Complete object detection framework (detection & localization), Precision and efficiency**}
