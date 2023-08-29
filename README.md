@@ -28,4 +28,6 @@ Using this solution, we could help :
 2. Braking distance prediction  
 3. Development of a user interface for alerts: **Mobile application**
 
+## Functional Architecture of the system :  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6e360c20-482a-4e88-8dd5-ad432298b882)
 
