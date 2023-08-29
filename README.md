@@ -28,7 +28,7 @@ Using this solution, we could help :
 2. Braking distance prediction
 3. Development of a user interface for alerts: **Mobile application** 
 
-## Functional Architecture of the system :  
+## Functional Architecture of the system  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/980c83cf-629b-414f-8704-831009aa0f13)  
 ## Physical architecture of the system :  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7193ae3e-fa41-4ac2-9af4-dba91a91e704)
@@ -42,3 +42,10 @@ Using this solution, we could help :
 
 3. Roboflow: Where we extracted the database for the training  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/f1cdcd92-3a6c-4bd9-8417-0e906872fbb1)
+
+## Importing the dataset and training the model for both "Traffic signs and traffic lights datasets"  
+* Importing the model  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/2acdff68-a649-4b4a-a321-717af6921685)  
+* Model training  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/adf0d9b8-dd21-4aaf-9576-9b32ad676d1c)
+  
