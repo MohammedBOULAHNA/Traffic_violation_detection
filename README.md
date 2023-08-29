@@ -59,3 +59,7 @@ Using this solution, we could help :
 ## Detection results  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/91d5f528-c782-4ad6-8ccc-aba6c5f210cb)
 
+## Converting the model from its default format (pytorch) into TensorflowLite (more compatible with embedded systems)  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/4994dfac-cc32-47bc-a2d4-db98056e2312)  
+
+##
