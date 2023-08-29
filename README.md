@@ -62,4 +62,10 @@ Using this solution, we could help :
 ## Converting the model from its default format (pytorch) into TensorflowLite (more compatible with embedded systems)  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/4994dfac-cc32-47bc-a2d4-db98056e2312)  
 
-##
+## Deploy the model using a FLASK API  
+* Test using videos
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/f21c4f6f-6eb4-4d99-be80-8e48af0c94a9)
+* Test using webcam
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/a21d1341-0a8a-414d-a417-e9544429f27d)
+
+
