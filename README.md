@@ -34,7 +34,7 @@ Using this solution, we could help :
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7193ae3e-fa41-4ac2-9af4-dba91a91e704)
 
 ## Technical tools used in the first phase: Developing a model for object detection  
-1. YOLO(You Only Look Once) : An object detection model that recognized for {**Real-time detection, Complete object detection framework (detection & localization), Precision and efficiency**}  
+1. YOLO(You Only Look Once) : An object detection model that recognized for {***Real-time detection, Complete object detection framework (detection & localization), Precision and efficiency***}  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/55642e6a-e646-4d4c-82e6-f3879f57e4df)  
 
 2. Python: Programming Language used for test  
@@ -49,3 +49,11 @@ Using this solution, we could help :
 * Model training  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/adf0d9b8-dd21-4aaf-9576-9b32ad676d1c)
   
+## Training results  
+***Traffic signs dataset***  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/27e46f99-1fa3-4bf0-b6da-3e34e29ec439)
+
+***Traffic lights dataset***  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/88525aa9-fd2e-4563-b9bf-c3df927b8824)
+
+
