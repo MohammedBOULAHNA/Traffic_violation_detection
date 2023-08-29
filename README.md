@@ -68,4 +68,6 @@ Using this solution, we could help :
 * Test using webcam
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/a21d1341-0a8a-414d-a417-e9544429f27d)
 
+* Test results on webcam  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/ce4bf7de-c9b4-4167-9f81-64cb36741443)
 
