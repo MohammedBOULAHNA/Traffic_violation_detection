@@ -29,6 +29,9 @@ Using this solution, we could help :
 3. Development of a user interface for alerts: **Mobile application**
 
 ## Functional Architecture of the system :  
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/980c83cf-629b-414f-8704-831009aa0f13)
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/980c83cf-629b-414f-8704-831009aa0f13)  
+## Physical architecture of the system :  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7193ae3e-fa41-4ac2-9af4-dba91a91e704)
+
 
 
