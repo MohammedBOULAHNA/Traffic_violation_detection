@@ -56,4 +56,6 @@ Using this solution, we could help :
 ***Traffic lights dataset***  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/88525aa9-fd2e-4563-b9bf-c3df927b8824)
 
+## Detection results  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/91d5f528-c782-4ad6-8ccc-aba6c5f210cb)
 
