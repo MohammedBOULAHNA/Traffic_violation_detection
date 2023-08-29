@@ -25,11 +25,8 @@ Using this solution, we could help :
 
 ## Steps to follow to develop the solution
 1. Creation of a model for object detection (traffic signs, traffic lights)
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/2f40fe92-d73b-4458-91bc-2fce475c595e)  
 2. Braking distance prediction
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/4943626e-fcef-4c2a-bbe8-c9e73bab2779)  
-3. Development of a user interface for alerts: **Mobile application**  
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7ea34ad8-d15d-4cdf-98a4-9345f66f571d)  
+3. Development of a user interface for alerts: **Mobile application** 
 
 ## Functional Architecture of the system :  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/980c83cf-629b-414f-8704-831009aa0f13)  
