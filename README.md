@@ -74,9 +74,9 @@ Using this solution, we could help :
 
 ## Second phase: *Developing an algorithm for braking distance prediction*  
 ### Technical Tools used   
-1. Python: Used to develop the algorithm and do tests
+1. Python: Used to develop the algorithm and do tests  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/c7fdd5d9-4aba-4665-beba-7ca2c9d97fdb)
-2. OpenCV:
+2. OpenCV:  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/63254239-a2b5-4214-a06b-4a603586b7d9)
 
 ### Vehicle detection and distance estimation with each vehicle
