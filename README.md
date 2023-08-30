@@ -33,7 +33,8 @@ Using this solution, we could help :
 ## Physical architecture of the system :  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7193ae3e-fa41-4ac2-9af4-dba91a91e704)
 
-## Technical tools used in the first phase: Developing a model for object detection  
+## First phase: *Developing a model for object detection*  
+### Technical tools used
 1. YOLO(You Only Look Once) : An object detection model that recognized for {***Real-time detection, Complete object detection framework (detection & localization), Precision and efficiency***}  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/55642e6a-e646-4d4c-82e6-f3879f57e4df)  
 
@@ -69,5 +70,11 @@ Using this solution, we could help :
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/a21d1341-0a8a-414d-a417-e9544429f27d)
 
 * Test results on webcam  
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/ce4bf7de-c9b4-4167-9f81-64cb36741443)
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/ce4bf7de-c9b4-4167-9f81-64cb36741443)  
 
+## Second phase: *Developing an algorithm for braking distance prediction*  
+### Technical Tools used   
+1. Python: Used to develop the algorithm and do tests
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/c7fdd5d9-4aba-4665-beba-7ca2c9d97fdb)
+2. OpenCV:
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/63254239-a2b5-4214-a06b-4a603586b7d9)
