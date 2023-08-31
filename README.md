@@ -81,4 +81,19 @@ Using this solution, we could help :
 
 ### Vehicle detection and distance estimation with each vehicle
 In this first step, we worked on detecting the vehicles present on the road and estimating the distance between the camera and each one of them. The following images demonstrate the results  
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/df78003c-993d-4e05-94bd-6e8b84841706)
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/df78003c-993d-4e05-94bd-6e8b84841706)  
+### Region Of Intrest (ROI) Detection  
+In this second part, we detect the ROI that englobes the vehicles detected on the road  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7e871096-8f7d-44c4-aa2a-f3ac0378e66c)  
+* The output  
+ ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/687eca19-7b45-41aa-94c8-75bedfaec441)  
+
+### Sending alerts if the estimated distance is below the security distance(We took 500 as a test threshold)    
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/118ccdee-5f3f-4302-bf6a-3c8da031370e)  
+
+### Test the algorithm on videos  
+1. **First video**: The algorithm is capable of detecting the vehicle presented on the road, and also estimating the distance with it. 
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/79d8cbb1-fb2d-4787-9286-988f05a5edba)  
+2. **Second video**: The algorithm also detected the two vehicles present on the road by estimating the distance with each one  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7324ea20-9c21-43a9-b537-43a14071ffeb)
+
