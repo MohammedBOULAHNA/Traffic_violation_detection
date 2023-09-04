@@ -94,6 +94,15 @@ In this second part, we detect the ROI that englobes the vehicles detected on th
 ### Test the algorithm on videos  
 1. **First video**: The algorithm is capable of detecting the vehicle presented on the road, and also estimating the distance with it. 
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/79d8cbb1-fb2d-4787-9286-988f05a5edba)  
-2. **Second video**: The algorithm also detected the two vehicles present on the road by estimating the distance with each one  
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7324ea20-9c21-43a9-b537-43a14071ffeb)
+2. **Second video**: The algorithm also detected the two vehicles present on the road by estimating the distance between each one  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/7324ea20-9c21-43a9-b537-43a14071ffeb)  
+
+## Third phase: *Developing a Mobile App to receive alerts about detected violations*  
+### Tools used  
+1. Flutter  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/748dce47-8e33-4fb1-a2e1-35967390567e)
+2. Android Studio  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/88123b7f-f0a9-4b5c-acf9-c0b818c0ea23)
+3. Firebase extension  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/eb503fdc-a3d4-414a-ba13-e384410f022e)
 
