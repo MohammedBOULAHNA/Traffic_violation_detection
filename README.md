@@ -112,5 +112,8 @@ The following pictures represent the login and signup interfaces that show up to
 
 ### Introductory pages to the app  
 The following pages aim to introduce the users to the main functions of the app  
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6f9757e9-2057-451a-8e68-9ec8d0a1ccd2)
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6f9757e9-2057-451a-8e68-9ec8d0a1ccd2)  
 
+### Settings pages  
+Our app gives users the possibility to edit settings   
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/12f6ad9d-cbcf-4fdb-8d95-d52b863f0b42)
