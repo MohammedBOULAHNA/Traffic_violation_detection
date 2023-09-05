@@ -106,6 +106,11 @@ In this second part, we detect the ROI that englobes the vehicles detected on th
 3. Firebase extension  
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/eb503fdc-a3d4-414a-ba13-e384410f022e)
 
-### Mobile interfaces to introduce users to the application  
+### User Signup and Login
 The following pictures represent the login and signup interfaces that show up to the user when he opens the app  
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/1f9e1436-cad8-418d-ba1b-086979d8da4b)
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/1f9e1436-cad8-418d-ba1b-086979d8da4b)  
+
+### Introductory pages to the app  
+The following pages aim to introduce the users to the main functions of the app  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6f9757e9-2057-451a-8e68-9ec8d0a1ccd2)
+
