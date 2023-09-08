@@ -111,9 +111,13 @@ The following pictures represent the login and signup interfaces that show up to
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/1f9e1436-cad8-418d-ba1b-086979d8da4b)  
 
 ### Introductory pages to the app  
-The following pages aim to introduce the users to the main functions of the app  
+The following are introductory pages that appear when you access our application for the first time. The purpose of these pages is to familiarize users with the app's functionalities.
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6f9757e9-2057-451a-8e68-9ec8d0a1ccd2)  
 
-### Settings pages  
-Our app gives users the possibility to edit settings   
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/12f6ad9d-cbcf-4fdb-8d95-d52b863f0b42)
+### Settings and privacy 
+These screenshots show the various personalization options available to users. They can adjust settings according to their preferences, such as the application language, change the name and profile photo, enable or disable notifications, etc. 
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/12f6ad9d-cbcf-4fdb-8d95-d52b863f0b42)  
+
+### Traffic rules reminder  
+This is an important feature in our application: When the user clicks on a specific sign, a pop-up message appears containing information about the sign. What's more, by clicking on the two buttons at the bottom, users access pages in PDF format, which provide more info on traffic regulations and the fines to be paid in the event of a violation.   
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/a71420eb-7993-4d26-933c-b18462f7704f)
