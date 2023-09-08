@@ -120,4 +120,7 @@ These screenshots show the various personalization options available to users. T
 
 ### Traffic rules reminder  
 This is an important feature in our application: When the user clicks on a specific sign, a pop-up message appears containing information about the sign. What's more, by clicking on the two buttons at the bottom, users access pages in PDF format, which provide more info on traffic regulations and the fines to be paid in the event of a violation.   
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/a71420eb-7993-4d26-933c-b18462f7704f)
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/a71420eb-7993-4d26-933c-b18462f7704f)   
+
+### Communication with the backend   
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/cc3411dc-f733-49d1-820a-70292fea7df1)
