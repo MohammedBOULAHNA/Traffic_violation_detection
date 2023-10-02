@@ -136,8 +136,8 @@ The following pictures highlight the alerts that are triggered when infringement
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/b1668c3e-7df7-41e1-ab56-247c3a408a9f)   
 #### Alerts:     
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/e977bc66-ed52-425f-8aee-ff45e2ebe103)     
-#### Email Alert:     
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6dec3bae-5b5e-4e5b-ac78-c43c200bfcd6)
+#### Email Alert:      
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6dec3bae-5b5e-4e5b-ac78-c43c200bfcd6)    
 
 ## Key Benefits: 
 1. Promoting more responsible driving.
