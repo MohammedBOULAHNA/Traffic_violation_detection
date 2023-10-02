@@ -1,4 +1,4 @@
-# Traffic_violation_detection  
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/4f581f01-4bf4-48ab-ac13-cf9a4ec45828)# Traffic_violation_detection  
 
 ## Main problems
 - Driver forgets a traffic code (for example: do not follow the red light). 
@@ -139,4 +139,7 @@ The following pictures highlight the alerts that are triggered when infringement
 #### Email Alert:     
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6dec3bae-5b5e-4e5b-ac78-c43c200bfcd6)
 
-
+## Key Benefits: 
+1. Promoting more responsible driving.
+2. Reduce the risk of accidents.
+3. Avoiding fines.
