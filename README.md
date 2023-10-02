@@ -123,4 +123,20 @@ This is an important feature in our application: When the user clicks on a speci
 ![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/a71420eb-7993-4d26-933c-b18462f7704f)   
 
 ### Communication with the backend   
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/cc3411dc-f733-49d1-820a-70292fea7df1)
+To implement the alert functionality, we set up a link between the Flask backend and the Flutter user interface. The idea is that each time a panel is detected, its class is instantly displayed in the interface. Interaction between the backend and frontend is via HTTP requests, as shown in the diagram.   
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/cc3411dc-f733-49d1-820a-70292fea7df1)   
+
+### Link with the application   
+We visualize the results of link tests between the front end and back end. Note that when the panel is detected by the webcam, the result is represented in JSON format, which is then displayed in the UI.    
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/3e289f35-a04c-4955-8f6c-98e8eacf9eb3)   
+
+### Triggering alerts   
+The following pictures highlight the alerts that are triggered when infringements are detected, in particular speed limit violations. A visual alert is sent to the user to warn them of the infringement. The screenshots also show that notifications are logged with the date and time of receipt. What's more, our application automatically sends an email to the address associated with the user's profile, informing them of the infraction detected.    
+#### API endpoint:    
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/b1668c3e-7df7-41e1-ab56-247c3a408a9f)   
+#### Alerts:     
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/e977bc66-ed52-425f-8aee-ff45e2ebe103)     
+#### Email Alert:     
+![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/6dec3bae-5b5e-4e5b-ac78-c43c200bfcd6)
+
+
