@@ -1,5 +1,4 @@
-![image](https://github.com/MohammedBOULAHNA/Traffic_violation_detection/assets/124175118/4f581f01-4bf4-48ab-ac13-cf9a4ec45828)# Traffic_violation_detection  
-
+# Traffic Violation Detection
 ## Main problems
 - Driver forgets a traffic code (for example: do not follow the red light). 
 - Driving on some national network roads which haven’t any road signs. 
